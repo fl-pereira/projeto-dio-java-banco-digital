@@ -1,3 +1,6 @@
+/**
+ * Classe para criação do objeto CLIENTE, contendo as informações do mesmo
+ */
 public class Cliente {
 
     private String nome, endereco;

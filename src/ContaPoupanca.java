@@ -1,3 +1,6 @@
+/**
+ * Classe para criação do objeto tipo CONTA POUPANÇA
+ */
 public class ContaPoupanca extends Conta {
 
     public ContaPoupanca(Cliente cliente) {

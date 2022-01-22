@@ -1,5 +1,8 @@
 import java.util.List;
 
+/**
+ * Classe para criação do objeto BANCO
+ */
 public class Banco {
 
     private String nome;

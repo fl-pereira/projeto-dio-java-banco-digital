@@ -1,3 +1,6 @@
+/**
+ * Classe para criação do objeto tipo CONTA CORRENTE
+ */
 public class ContaCorrente extends Conta {
 
     public ContaCorrente(Cliente cliente) {

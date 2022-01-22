@@ -1,3 +1,6 @@
+/**
+ * Classe para criação do objeto CONTA, contendo as informações necessárias
+ */
 public abstract class Conta implements IConta {
 
     private static final int AGENCIA_PADRAO = 1;

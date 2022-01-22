@@ -1,3 +1,6 @@
+/**
+ * Interface de métodos
+ */
 public interface IConta {
 
     void sacar(double valor);
